@@ -1,0 +1,8 @@
+C:\source\codeworks\csharp-intro\bin\Debug\netcoreapp1.1\csharp-intro.deps.json
+C:\source\codeworks\csharp-intro\bin\Debug\netcoreapp1.1\csharp-intro.runtimeconfig.json
+C:\source\codeworks\csharp-intro\bin\Debug\netcoreapp1.1\csharp-intro.runtimeconfig.dev.json
+C:\source\codeworks\csharp-intro\bin\Debug\netcoreapp1.1\csharp-intro.dll
+C:\source\codeworks\csharp-intro\bin\Debug\netcoreapp1.1\csharp-intro.pdb
+C:\source\codeworks\csharp-intro\obj\Debug\netcoreapp1.1\csharp-intro.AssemblyInfo.cs
+C:\source\codeworks\csharp-intro\obj\Debug\netcoreapp1.1\csharp-intro.dll
+C:\source\codeworks\csharp-intro\obj\Debug\netcoreapp1.1\csharp-intro.pdb
